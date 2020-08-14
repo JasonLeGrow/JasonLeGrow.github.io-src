@@ -53,3 +53,6 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # DISPLAY_PAGES_ON_MENU = True
 # DISPLAY_CATEGORIES_ON_MENU = True
+
+# Change page ordering
+PAGE_ORDER_BY = 'page-order'

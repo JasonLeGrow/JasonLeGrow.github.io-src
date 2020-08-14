@@ -2,6 +2,7 @@ Title: Research
 Date: 2020-05-29
 Category: Research
 Slug: Research
+page-order: 1
 
 My current research is in post-quantum cryptography. In particular I am interested in new post-quantum primitives; realizing classical cryptosystems over post-quantum primitives; protocols; efficient implementations; and quantum cryptanalysis. I am primarily focused on isogeny-based schemes, built on the ideas underlying [SIKE][sike] and [CSIDH][csidh]. In the past, I have worked on combinatorial design theory, particularly on configuration orderings of balanced incomplete block designs.
 
