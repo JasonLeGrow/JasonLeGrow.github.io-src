@@ -2,12 +2,32 @@ Title: Contact
 Date: 2020-06-18
 Category: Contact
 Slug: Contact
-page-order: 2
+page-order: 4
 
-| <!--                    --> | <!---                                                                                                                --> |
-|-----------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| <b> University Address </b> | Department of Combinatorics and Optimization <br> 200 University Avenue West <br> Waterloo, Ontario, Canada <br> N2L 3G1 |
-| <b> Office             </b> | MC 5113                                                                                                                  |
-| <b> Office Phone       </b> | (519) 888 4567 ext. 32159                                                                                                |
-| <b> Email              </b> | jlegrow (at) uwaterloo (dot) ca                                                                                          |
+<br>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border:none;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border:none;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:right;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mcqj">University Address: </th>
+    <th class="tg-73oq">Department of Mathematics<br>460 McBryde Hall<br>225 Stanger Street<br>Blacksburg, VA, 24060<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mcqj">Office: </td>
+    <td class="tg-73oq">470 McBryde Hall</td>
+  </tr>
+  <tr>
+    <td class="tg-mcqj">Email: </td>
+    <td class="tg-73oq">jlegrow (at) vt (dot) edu</td>
+  </tr>
+</tbody>
+</table>

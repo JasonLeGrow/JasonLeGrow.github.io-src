@@ -10,7 +10,16 @@ PATH = 'content'
 
 TIMEZONE = 'Canada/Eastern'
 
+# Copyright
+COPYRIGHT_YEAR = '2024'
+COPYRIGHT_NAME = 'Jason T. LeGrow'
+
 DEFAULT_LANG = 'en'
+
+# Where Pelican looks for stuff
+STATIC_PATHS = ['images','teaching','cv']
+
+SITELOGO = '/images/MyIcon.jpeg'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -20,39 +29,47 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Combinatorics and Optimization', 'https://uwaterloo.ca/combinatorics-and-optimization/'),
-          ('Institue for Quantum Computing', 'https://uwaterloo.ca/institute-for-quantum-computing/'),
-         )
+LINKS = (('CV','/cv/JasonLeGrowCV.pdf'),
+         ('VT Math','https://math.vt.edu/'),
+         ('VTQ', 'https://vtq.vt.edu'))
 
 # Social widget
-SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/jasonlegrow/'),)
+SOCIAL = (('envelope','mailto:jlegrow@vt.edu'),
+          ('linkedin', 'https://www.linkedin.com/in/jasonlegrow/'),
+          ('twitter', 'https://twitter.com/jason_legrow'),
+          ('github', 'https://github.com/jasonlegrow'))
 
-DEFAULT_PAGINATION = False
+DISABLE_URL_HASH = True
+
+#DEFAULT_PAGINATION = False
 
 # Change theme
-THEME = '/home/jason/pelican-themes/bootstrap' #Actually works
-# THEME = '/home/jason/pelican-themes/pelican-blue'
+# THEME = 'bootstrap'
+# THEME = '../pelican-themes/bootstrap' #Actually works
+# THEME = '../pelican-themes/myTheme'
+THEME = '/Users/jasonlegrow/Documents/Projects/pelican-themes/myTheme/'
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 # Plugins
-PLUGIN_PATHS = ['/home/jason/pelican-plugins']
+PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['autopages']
 # PLUGINS = ['neighbors','i18n_subsites','tipue_search']
 
 # Remove old files before creating new ones
 DELETE_OUTPUT_DIRECTORY = True
 
-# Needed for some themes
-# DIRECT_TEMPLATES = ['category', 'blog-index']
-# PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
-
-# For pelican-blue
-# SIDEBAR_DIGEST = 'PhD Student in Post-Quantum Cryptography'
-
-# DISPLAY_PAGES_ON_MENU = True
-# DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
+# USE_GOOGLE_FONTS = False
 
 # Change page ordering
 PAGE_ORDER_BY = 'page-order'
+
+# Markdown extensions
+MARKDOWN = {
+        'extension_configs':{
+            'markdown.extensions.sane_lists' : {}
+            }
+        }
