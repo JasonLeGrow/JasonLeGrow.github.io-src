@@ -7,6 +7,16 @@ page-order: 2
 Virginia Tech
 -------------
 
+  **Fall 2025**<br>
+  Math 4176: Cryptography
+
+  **Spring 2025**<br>
+  Math 4175: Cryptography (Team taught with Travis Morrison) <br>
+  Math 5174: Mathematics of Public Key Cryptography
+
+  **Fall 2024**<br>
+  Math 4175: Cryptography
+
   **Spring 2024**<br>
   Math 4134: Number Theory ([Course description]({static}/teaching/LeGrowJ_4134_17384.pdf))
 

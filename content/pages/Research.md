@@ -13,10 +13,14 @@ My current research is in post-quantum cryptography. In particular I am interest
 
 Journal Articles
 ----------------
+1. <span style="color:#D9411E"> Duality Lower Bouds for the Cost of Group Action Evaluation in CSIDH</span>, with Veronika Kuchta, Hiram Lopez and Gretchen Matthews. To appear in Transactions on Mathematical Cryptology.
+
+1. <span style="color:#D9411E"> Towards IOPPs from Folded Reed-Solomon Codes</span>, with Veronika Kuchta, Hiram Lopez and Gretchen Matthews. To appear in Transactions on Mathematical Cryptology.
+
+1. [Influences of Some Families of Error-Correcting Codes][influences], with Hailey Egan, Gretchen L. Matthews, and Jeff Suliga. Involve, a Journal of Mathematics (2025).
 
 1. [CSI-Otter: Isogeny-Based (Partially) Blind Signatures from the Class Group Action with a Twist][csiotter-journal], with Shuichi Katsumata, Yi-Fu Lai, and Ling Qin. Designs, Codes, and Cryptography (2024).
 
-1. [Influences of Some Families of Error-Correcting Codes][influences], with Hailey Egan, Gretchen L. Matthews, and Jeff Suliga. To appear in Involve, a Journal of Mathematics.
 
 1. [Supersingular Non-Superspecial Abelian Surfaces in Cryptography][ssnss], with Yan Bo Ti and Lukas Zobernig. Mathematical Cryptology vol. 3, no. 2 (2023), pp. 11-23.
 
@@ -39,9 +43,9 @@ Journal Articles
 Refereed Conference Proceedings
 --------------------------------
 
-11. <span style="color:#D9411E">Practical Fault Injection Attacks on Constant-Time CSIDH and Mitigation Techniques</span>, with Tinghung Chiu and Wenjie Xiong. To appear in the Proceedings of the Eighth Workshop on Attacks and Solutions in Hardware Security (ASHES 24).
+13. [Practical Fault Injection Attacks on Constant Time CSIDH and Mitigation Techniques][faultinjection], with Tinghung Chiu and Wenjie Xiong. Proceedings of the Eighth Workshop on Attacks and Solutions in Hardware Security (ASHES 24).
 
-1. <span style="color:#D9411E">Masking Countermeasures Against Side-Channel Attacks on Quantum Computers</span>, with Travis Morrison, Jamie Sikora, and Nic Swanson. To appear in the Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE 24).
+1. [Masking Countermeasures Against Side-Channel Attacks on Quantum Computers][masking], with Travis Morrison, Jamie Sikora, and Nic Swanson. Proceedings of the IEEE International Conference on Quantum Computing and Engineering (QCE 24).
 
 1. [CSI-Otter: Isogeny-Based (Partially) Blind Signatures from the Class Group Action with a Twist][csiotter], with Shuichi Katsumata, Yi-Fu Lai, and Ling Qin. CRYPTO 2023.
 
@@ -63,6 +67,33 @@ Refereed Workshop Proceedings
 
 Invited Talks
 -------------
+
+1. <span style="color:#D9411E">Preliminary Report: CSI-Dragon - Blind Signatures go HD!</span><br>
+Workshop on Isogeny Graphs in Cryptography, Banff International Research Station
+
+1. <span style="color:#D9411E">Practical Fault Injection Attacks on CSIDH and Mitigation Techniques</span><br>
+ Mathematical Congress of the Americas, Special Session on Post-Quantum Cryptography
+
+1. <span style="color:#D9411E">Practical Fault Injection Attacks on CSIDH and Mitigation Techniques</span><br>
+SIAM Algebraic Geomtery, Minisymposium on Applications of Isogenies in Cryptography
+
+1. <span style="color:#D9411E">Duality Lower Bounds on the Cost of CSIDH Group Action Evaluation</span><br>
+Workshop on Coding Theory and Cryptography, Virginia Tech Steger Center
+
+1. <span style="color:#D9411E">Duality Lower Bounds on the Cost of CSIDH Group Action Evaluation</span><br>
+Applied Algebra Days, University of South Florida
+
+1. <span style="color:#D9411E">Mathematics of Communication - Cryptography and Coding Theory</span><br>
+Mathematics - Opportunites in Reseearch and Education (MORE), Virginia Tech
+
+1. <span style="color:#D9411E">Practical Fault Injection Attacks on CSIDH, and Mitigation Techniques</span><br>
+Special Session on Post-Quantum Cryptography, AMS Southeastern Sectional Meeting
+
+1. <span style="color:#D9411E">Post-Quantum Blind Signatures from Code Equivalence</span><br>
+Special Session on Cryptography and Related Fields, Joint Mathematics Meetings
+
+1. <span style="color:#D9411E"> Post-Quantum Blind Signatures from Group Actions</span><br>
+Mathematical Cryptography Workshop, University of Auckland
 
 1. <span style="color:#D9411E">Post-Quantum Adaptor Signatures from Non-Abelian Group Actions</span><br>
 VT-Swiss Coding Theory and Cryptography Summer School, Virginia Tech Steger Center
@@ -131,3 +162,5 @@ University of Auckland Algebra and Combinatorics Seminar.
   [make]: https://www.degruyter.com/document/doi/10.1515/jmc-2021-0016/html
   [fault]: https://link.springer.com/chapter/10.1007/978-3-030-85987-9_12
   [2sidh]: https://www.tandfonline.com/doi/abs/10.1080/23799927.2020.1822446?journalCode=tcom20
+  [faultinjection]: https://dl.acm.org/doi/abs/10.1145/3689939.3695789
+  [masking]: https://ieeexplore.ieee.org/abstract/document/10821457
