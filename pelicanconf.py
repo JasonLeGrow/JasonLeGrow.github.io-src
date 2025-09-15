@@ -48,7 +48,7 @@ DISABLE_URL_HASH = True
 # THEME = '../pelican-themes/bootstrap' #Actually works
 # THEME = '../pelican-themes/myTheme'
 # THEME = '/Users/jasonlegrow/Documents/Projects/pelican-themes/myTheme/'
-THEME = 'myTheme/'
+THEME = 'Flex/'
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True

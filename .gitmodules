@@ -1,3 +1,6 @@
 [submodule "output"]
 	path = output
 	url = https://www.github.com/JasonLeGrow/JasonLeGrow.github.io
+[submodule "Flex"]
+	path = Flex
+	url = git@github.com:JasonLeGrow/Flex.git
