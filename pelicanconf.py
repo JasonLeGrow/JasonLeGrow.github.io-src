@@ -37,7 +37,9 @@ LINKS = (('CV','/cv/JasonLeGrowCV.pdf'),
 SOCIAL = (('envelope','mailto:jlegrow@vt.edu'),
           ('linkedin', 'https://www.linkedin.com/in/jasonlegrow/'),
           # ('twitter', 'https://twitter.com/jason_legrow'),
-          ('github', 'https://github.com/jasonlegrow'))
+          ('github', 'https://github.com/jasonlegrow'),
+          ('orcid', 'https://orcid.org/0000-0002-6239-6616')
+          )
 
 DISABLE_URL_HASH = True
 
