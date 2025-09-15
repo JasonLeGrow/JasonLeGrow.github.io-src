@@ -1,6 +1,7 @@
 Title: Data Visualization
 Date: 2020-05-29
 Category: Data Visualization
+Slug: viz
 
 I like to create interactive visualizations, particularly for geospatial data. This page has some of the visualizations that I've made that I'm most happy with.
 

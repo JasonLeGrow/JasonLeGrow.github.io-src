@@ -11,7 +11,7 @@ PATH = 'content'
 TIMEZONE = 'Canada/Eastern'
 
 # Copyright
-COPYRIGHT_YEAR = '2024'
+COPYRIGHT_YEAR = '2025'
 COPYRIGHT_NAME = 'Jason T. LeGrow'
 
 DEFAULT_LANG = 'en'
@@ -36,7 +36,7 @@ LINKS = (('CV','/cv/JasonLeGrowCV.pdf'),
 # Social widget
 SOCIAL = (('envelope','mailto:jlegrow@vt.edu'),
           ('linkedin', 'https://www.linkedin.com/in/jasonlegrow/'),
-          ('twitter', 'https://twitter.com/jason_legrow'),
+          # ('twitter', 'https://twitter.com/jason_legrow'),
           ('github', 'https://github.com/jasonlegrow'))
 
 DISABLE_URL_HASH = True
